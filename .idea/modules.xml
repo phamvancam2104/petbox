@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/docs/.idea/docs.iml" filepath="$USER_HOME$/Documents/GitHub/docs/.idea/docs.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/maxbet/.idea/maxbet.iml" filepath="$USER_HOME$/Documents/GitHub/maxbet/.idea/maxbet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/petbox.iml" filepath="$PROJECT_DIR$/.idea/petbox.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/data/tomomaster/.idea/tomomaster.iml" filepath="$USER_HOME$/Documents/data/tomomaster/.idea/tomomaster.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/data/tomoscan/.idea/tomoscan.iml" filepath="$USER_HOME$/Documents/data/tomoscan/.idea/tomoscan.iml" />
+    </modules>
+  </component>
+</project>

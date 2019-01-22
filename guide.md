@@ -90,9 +90,9 @@ In a terminal, make sure you are in the root of the directory that contains the 
 ````
 truffle compile
 ````
+You should see output similar to the following:
 
 ````
-You should see output similar to the following:
 Compiling ./contracts/Migrations.sol...
 Compiling ./contracts/Adoption.sol...
 Writing artifacts to ./build/contracts
